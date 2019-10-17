@@ -10,8 +10,8 @@ export default function Card() {
       </header>
       <p>Fazer migração do servidor</p>
       <img
-        src="https://api.adorable.io/avatars/285/abott@adorable.png"
-        alt=""
+      //src="https://api.adorable.io/avatars/285/abott@adorable.png"
+      //alt=""
       />
     </Container>
   );
